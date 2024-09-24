@@ -1,4 +1,3 @@
-# [Uzzenger](https://uzzenger.onrender.com)
 
 ## this is a realtime mern stack powered chatting application
 - react is used for frontend and ui is programmed using component based chakra-ui library
